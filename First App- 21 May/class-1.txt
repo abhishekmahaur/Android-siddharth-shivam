@@ -1,0 +1,110 @@
+project-->
+widgets--> UI--> xml
+backend--> java
+
+
+
+
+
+
+
+
+xml-->
+
+
+Container--> Layout--> simplest layout--> easily drag and drop--> Relative layout
+
+widgets--> button, textview, etc. --> Container
+
+<RelativeLayout>
+
+<widgets>
+
+</RelativeLayout>
+
+
+
+Parent--> Layout
+Child--> widgets--> 
+
+width and height--> match_parent, wrap_content, harded_coded value 
+
+
+default postion--> top-0, left-0
+
+
+
+Event Handling--> will handle events-->
+what are events--> button click, box click,
+
+event fire/occur-->event-listeners
+
+event handle--> event-handlers--> functionality
+
+
+
+ 
+
+from java--> predefined interfaces--> unimplemented methods
+
+
+abstract class or interfaces
+
+abstract class data{
+
+abstract void print();//unimplemented--> no body--> declare 
+
+public static void main(){
+
+}
+
+
+}
+
+interface data{
+
+void print();
+
+}
+
+
+
+
+
+
+
+
+
+Steps:
+
+step-1: Downcasting
+Step-2: Attach Listener
+different ways:anonymous interface
+step-3: Attach Handler
+
+
+anonymous
+
+classname objectname = new classcons();
+
+objectnane.
+
+anonymous-->
+
+limited functionality
+limited widgets 1-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
