@@ -1,0 +1,40 @@
+View --> deal single view--> widgets--> Textview, button, edittext, etc
+ViewGroup --> deal more then one view and even with more then one ViewGroup--> layouts-->  inner view and inner layouts
+
+
+Layouts-->
+
+RelativeLayout-->
+
+positioning acc. to the parent and acc. to the other widgets
+
+Advantage--> provides more attributes 
+
+avoid nested layouts
+
+Disadvantage--> 
+
+
+
+LinearLayout--> vertically or horizontally
+main attribute:
+
+orientation
+
+<LinearLayout
+width and height
+>
+
+by default--> horizontal
+
+nested layouts
+
+
+
+
+LinearLayout
+FrameLayout
+TableLayout
+CoordinatorLayout
+AppBarLayout
+ToolBarLayout
