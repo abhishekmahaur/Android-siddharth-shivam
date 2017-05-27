@@ -1,0 +1,28 @@
+LinearLayout
+
+orientation=
+
+Provide proper width and height for this 2 attribute
+
+--> layout_gravity--> layout--> inner elements
+--> gravity
+
+layout_weight
+
+corresponding width or height set 0dp so that weight should be 
+assigned and used properly
+__________________________________________________________________
+
+FrameLayout:
+
+TableLayout:
+
+<TableRow>
+
+<Button>
+<TextView
+
+</TableRow>
+
+
+Activity->Activity
