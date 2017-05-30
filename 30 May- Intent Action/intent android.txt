@@ -1,0 +1,14 @@
+Intent-->
+
+services or broadcast 
+
+2 types of Intent:
+
+1) Explicit Intent--> whenever you have to pass data within activities
+work inside app.
+
+2) Implicit Intent--> whenever you want to perform any action. data open pass to any other app--> gmail address--> gmail app--> data pass outside the app
+
+Angry Button Maker
+
+http://angrytools.com/android/button/
