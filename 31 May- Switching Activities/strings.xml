@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LayoutsInAndroid</string>
+    <string name="month">Month</string>
+    <string-array name="month">
+        <item>Month</item>
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+    </string-array>
+</resources>
