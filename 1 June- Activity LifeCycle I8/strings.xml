@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Activity LifeCycle</string>
+    <string name="hello">Hello Android</string>
+</resources>
