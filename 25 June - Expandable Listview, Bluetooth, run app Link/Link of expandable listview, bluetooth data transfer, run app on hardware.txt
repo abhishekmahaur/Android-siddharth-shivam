@@ -1,0 +1,13 @@
+Expandable Listview:
+
+http://www.journaldev.com/9942/android-expandablelistview-example-tutorial
+
+Run App on Hardware:
+
+https://developer.android.com/studio/run/oem-usb.html
+
+Sending Data through Bluetooth:
+
+https://developer.android.com/samples/BluetoothChat/src/com.example.android.bluetoothchat/BluetoothChatFragment.html
+
+
